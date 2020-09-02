@@ -15,6 +15,7 @@ U(t) = 1/2 k x^2 - expect a squared cosine form
 E(t) = K + U - expect a straight horizontal line
 
 '''
+#Legacy functions, will be phased out as they are not mine. The above are to be integrated into dataSendloop
 
 def get_Var(Values): #Find which values are given and delegate functions to derive unkowns
     quantities = []
